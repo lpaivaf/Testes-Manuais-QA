@@ -20,9 +20,11 @@ Repositório dedicado à documentação de testes manuais, incluindo:
 
 #### Este repositório tem como propósito:
 
+```Bash
 ✔ Centralizar a execução e documentação de testes manuais
 ✔ Servir como material de estudo e prática em QA
 ✔ Apoiar futuras implementações de testes automatizados
+```
 
 ## Ferramentas Utilizadas
 
